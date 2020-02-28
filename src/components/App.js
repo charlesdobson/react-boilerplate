@@ -1,12 +1,8 @@
-import React from 'react'
-import { hot } from 'react-hot-loader'
+import React from 'react';
+import { hot } from 'react-hot-loader';
 
 const App = () => {
-    return (
-        <div>
-            Hello World!
-        </div>
-    )
-}
+  return <div>Hello World!</div>;
+};
 
-export default hot(module)(App)
+export default hot(module)(App);
