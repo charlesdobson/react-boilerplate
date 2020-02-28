@@ -1,10 +1,10 @@
 {
-  "name": "react-boilerplate",
-  "version": "1.0.0",
-  "description": "A minimal boilerplate for building React applications",
+  "name": "",
+  "version": "0.0.0",
+  "description": "A",
   "main": "index.js",
-  "repository": "https://github.com/charlesdobson/react-boilerplate.git",
-  "author": "charlesdobson <charlesdobson92@gmail.com>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
